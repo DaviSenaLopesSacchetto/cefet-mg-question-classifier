@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# OCR output
+output/
+
+# Generated questions
+Questões/
+
+#Relatories
+relatorios/
+
+# PDFs
+CEFET/
+
+# Models
+models/
+
+# Cache
+.cache/
+
+# Operating system
+.DS_Store
+Thumbs.db
